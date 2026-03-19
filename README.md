@@ -1,6 +1,6 @@
 ```markdown
 # 🚨 CHECK_IP – Bulk IP Reputation Scanner
-
+```
 > **Wersja:** 1.2 | **Autor:** Łukasz Wójcik | **Rok:** 2025
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org)
