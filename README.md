@@ -1,13 +1,15 @@
 ```markdown
 # 🚨 CHECK_IP – Bulk IP Reputation Scanner
 ```
-> **Wersja:** 1.2 | **Autor:** Łukasz Wójcik | **Rok:** 2025
+> **Wersja:** 1.2 | **Autor:** Łukasz Wójcik | **Rok:** 2026
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 
-Narzędzie CLI do **masowego sprawdzania reputacji adresów IP** przy użyciu  **AbuseIPDB**, **VirusTotal** i **IPInfo**. Generuje czytelne raporty w formacie tekstowym i JSON – idealne do analizy bezpieczeństwa, SOC, pentestów i automatyzacji.
+Narzędzie CLI do **masowego sprawdzania reputacji adresów IP** przy użyciu  **AbuseIPDB**, **VirusTotal** i **IPInfo**. 
+
+Generuje czytelne raporty w formacie tekstowym i JSON – idealne do analizy bezpieczeństwa, SOC, pentestów i automatyzacji.
 
 ---
 
