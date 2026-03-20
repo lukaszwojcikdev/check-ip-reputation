@@ -246,10 +246,17 @@ Projekt dostępny na licencji **MIT** – zobacz plik [LICENSE](LICENSE) po szcz
 
 ---
 
-> 🌟 **Podoba Ci się projekt?** Daj ⭐ na GitHubie – to motywuje do dalszego rozwoju!
+> 🌟 **Podoba Ci się projekt?** Pomóż w rozwoju:
+⭐ Daj gwiazdkę na GitHubie – to motywuje!
+🐛 Zgłoś błąd lub propozycję w Issues
+💻 Wyślij PR z poprawką lub nową funkcją
+📢 Udostępnij w społecznościach security / dev
+Każdy wkład się liczy! 🙏
 ```
 
 ## ⚠️ Disclaimer
 
 Narzędzie przeznaczone jest wyłącznie do **legalnych celów badawczych, edukacyjnych i audytowych**. Autor nie ponosi odpowiedzialności za niewłaściwe użycie oprogramowania. Upewnij się, że masz prawo do skanowania sprawdzanych adresów IP.
+
+
 
