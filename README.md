@@ -62,7 +62,7 @@ vt-py>=0.18.0
 
 ```bash
 # 1. Sklonuj repozytorium
-git clone https://github.com/lukaszwojcikdev/check-ip.git
+git clone https://github.com/lukaszwojcikdev/check-ip-reputation
 cd check-ip
 
 # 2. Zainstaluj zależności
