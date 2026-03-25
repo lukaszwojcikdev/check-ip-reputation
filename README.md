@@ -239,8 +239,9 @@ Projekt dostępny na licencji **MIT** – zobacz plik [LICENSE](LICENSE) po szcz
 ## 🧑‍💻 Autor
 
 **Łukasz Wójcik**  
-🔗 GitHub: [lukaszwojcikdev](https://github.com/lukaszwojcikdev)  
-📧 WWW: [strona_www](https://lukaszwojcik.eu)
+🐙 GitHub: [lukaszwojcikdev](https://github.com/lukaszwojcikdev)  
+🔗 LinkedIn: [profil_linkedin](https://www.linkedin.com/in/lukasz-michal-wojcik)
+🌐 Website: [strona_domowa](https://lukaszwojcik.eu)
 
 > 💬 *"Bezpieczeństwo to proces, nie produkt."*
 
@@ -256,7 +257,17 @@ Każdy wkład się liczy! 🙏
 
 ## ⚠️ Disclaimer
 
-Narzędzie przeznaczone jest wyłącznie do **legalnych celów badawczych, edukacyjnych i audytowych**. Autor nie ponosi odpowiedzialności za niewłaściwe użycie oprogramowania. Upewnij się, że masz prawo do skanowania sprawdzanych adresów IP.
+Narzędzie przeznaczone jest wyłącznie do **legalnych celów badawczych, edukacyjnych i audytowych**.
+
+**Oprogramowanie dostarczane jest "takie, jakie jest" (AS IS)** bez jakichkolwiek gwarancji, wyraźnych lub dorozumianych, w tym gwarancji przydatności do określonego celu lub braku błędów.
+
+Autor **nie ponosi odpowiedzialności** za:
+- Jakiekolwiek szkody wynikające z użycia narzędzia;
+- Błędy, luki bezpieczeństwa lub niezawodność oprogramowania;
+- Nieprawidłowe użycie w sposób niezgodny z prawem;
+- Skutki wynikające z nieodpowiednich danych wejściowych i wyjściowych;
+
+**Użytkownik używa na własne ryzyko i odpowiedzialność.**
 
 
 
