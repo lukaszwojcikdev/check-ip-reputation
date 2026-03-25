@@ -240,7 +240,7 @@ Projekt dostępny na licencji **MIT** – zobacz plik [LICENSE](LICENSE) po szcz
 
 **Łukasz Wójcik**  
 🔗 GitHub: [lukaszwojcikdev](https://github.com/lukaszwojcikdev)  
-📧 Kontakt: [dodaj swój email]  
+📧 WWW: [strona_www](https://lukaszwojcik.eu)
 
 > 💬 *"Bezpieczeństwo to proces, nie produkt."*
 
