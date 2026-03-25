@@ -112,12 +112,40 @@ Utwórz plik `config.json` w katalogu projektu:
 python check_ip.py lista_ip.txt
 ```
 
+### Wynik
+
+```javascript
+   ____ _               _    ___ ____
+ / ___| |__   ___  ___| | _|_ _|  _ \
+| |   | '_ \ / _ \/ __| |/ /| || |_) |
+| |___| | | |  __/ (__|   < | ||  __/
+ \____|_| |_|\___|\___|_|\_\___|_|
+
+> CHECK_IP - Bulk Reputation Scanner
+> (c) 2026 by Łukasz Wójcik  version 1.3
+> GitHub: https://github.com/lukaszwojcikdev/check-ip-reputation
+> Usage: check_ip.py <LIST_IP_FILE.txt>
+
+[*] Wczytano 3 adresów IP. Rozpoczynam przetwarzanie...
+
+[1/3] Przetwarzanie: 1.1.1.1
+✅ Raporty dla 1.1.1.1 zostały wygenerowane.
+⏳ Oczekiwanie 60s (Rate Limit)...
+[2/3] Przetwarzanie: 8.8.8.8
+✅ Raporty dla 8.8.8.8 zostały wygenerowane.
+⏳ Oczekiwanie 60s (Rate Limit)...
+[3/3] Przetwarzanie: 9.9.9.9
+✅ Raporty dla 9.9.9.9 zostały wygenerowane.
+
+🏁 Skanowanie zakończone.
+```
+
 ### Format pliku wejściowego (`lista_ip.txt`)
 
 ```
-192.168.1.1
-8.8.8.8
 1.1.1.1
+8.8.8.8
+9.9.9.9
 # Komentarze i puste linie są ignorowane
 ```
 
