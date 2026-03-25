@@ -288,7 +288,8 @@ Każdy wkład się liczy! 🙏
 
 Narzędzie przeznaczone jest wyłącznie do **legalnych celów badawczych, edukacyjnych i audytowych**.
 
-**Oprogramowanie dostarczane jest "takie, jakie jest" (AS IS)** bez jakichkolwiek gwarancji, wyraźnych lub dorozumianych, w tym gwarancji przydatności do określonego celu lub braku błędów.
+**Oprogramowanie dostarczane jest "takie, jakie jest" (AS IS)** bez jakichkolwiek gwarancji,
+wyraźnych lub dorozumianych, w tym gwarancji przydatności do określonego celu lub braku błędów.
 
 Autor **nie ponosi odpowiedzialności** za:
 - Jakiekolwiek szkody wynikające z użycia narzędzia;
