@@ -23,7 +23,7 @@
 
 🏁 Skanowanie zakończone.
 ```
-> **Wersja:** 1.2 | **Autor:** Łukasz Wójcik | **Rok:** 2026
+> **Wersja:** 1.3 | **Autor:** Łukasz Wójcik | **Rok:** 2026
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
